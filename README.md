@@ -3,6 +3,30 @@ E-Shopee E-Commerce App Flutter
 Made by Achyut and Siddharth 
 
 
+
+<img src="/Images/1.jpeg"
+      width="300" 
+     alt=""
+     style="float: left; margin-right: 5px;" />
+     
+
+<img src="/Images/5.jpeg"
+      width="300" 
+     alt=""
+     style="float: left; margin-right: 5px;" />
+     
+  
+<img src="/Images/4.jpeg"
+      width="300" 
+     alt=""
+     style="float: left; margin-right: 5px;" />
+     
+ 
+<img src="/Images/3.jpeg"
+      width="300" 
+     alt=""
+     style="float: left; margin-right: 5px;" />
+
 <img src="/Final Image/home_screen.png"
       width="300" 
      alt=""
