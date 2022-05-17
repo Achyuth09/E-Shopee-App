@@ -4,6 +4,7 @@ Made by Achyut and Siddharth
 
 Splash Screen 
 <img src="/Final Image/home_screen.png"
+      width="100" 
      alt=""
      style="float: left; margin-right: 5px;" />
      
