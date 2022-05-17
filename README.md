@@ -2,7 +2,7 @@ E-Shopee E-Commerce App Flutter
 
 Made by Achyut and Siddharth 
 
-Splash Screen 
+
 <img src="/Final Image/home_screen.png"
       width="300" 
      alt=""
